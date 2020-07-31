@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-fotos-jkjokr": {
+      "hosting": {
+        "firebaseFotos": [
+          "fire-fotos-jkjokr"
+        ]
+      }
+    }
+  }
+}
